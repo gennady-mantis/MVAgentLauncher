@@ -1,0 +1,15 @@
+{
+    "setup": {
+        "TOOL_NAME": "MVAgentLauncher",
+        "NUMBER_DEVICES": 4,
+        "PASSWORD": "1",
+        "USER": "user",
+        "NUC_ONE": 1,
+        "IPADD_BASE": "192.168.34"
+    },
+    "parameters": {
+        "ZIP_MODE": "NOZIP",
+        "COMPRESS": "H264",
+        "Description": "3iosk_test"
+    }
+}

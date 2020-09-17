@@ -1,0 +1,8 @@
+include kiosk_param.json
+include kiosk_nuc_param.json
+include MVAgentLauncher_start.bat
+include menu/About.txt
+include menu/mantis-logo.png
+include menu/Readme.pdf
+include images/mantis-logo.png
+
